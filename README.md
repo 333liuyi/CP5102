@@ -19,5 +19,9 @@ Industry control system cyber attack detection
 
 ## procedure
 First save .pcap file as .txt file
+
 If do the protocol filter, use the fliter in wireshark application.
-using pcap_txt_to_image.py generate image with label
+
+using pcap_txt_to_image.py generate image with label, i.e. deep learning training set format .npy
+
+
