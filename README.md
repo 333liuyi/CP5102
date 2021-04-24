@@ -36,7 +36,7 @@ use p28.py for app and visualization
 
 use p27.py for CNN baseline
 
-use [how to use keras/tf/pytorch realize TP/TN/FP/FN and accuracy/sensiivity/precision/specificity/f1-score metrics](https://blog.csdn.net/weixin_43509263/article/details/101638713) & <https://www.yht7.com/news/94223> & <https://www.yisu.com/zixun/146799.html> & [keras manual/docs](https://keras.io/zh/metrics/)for other metrics
+use <https://blog.csdn.net/weixin_43509263/article/details/101638713> & <https://www.yht7.com/news/94223> & <https://www.yisu.com/zixun/146799.html> & [keras manual/docs](https://keras.io/zh/metrics/) for other metrics
 
 reference [Tensorflow note Peking University MOOC](https://github.com/cj0012/AI-Practice-Tensorflow-Notes)
 
