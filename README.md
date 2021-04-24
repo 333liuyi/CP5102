@@ -26,5 +26,12 @@ using pcap_txt_to_image.py generate image with label, i.e. deep learning trainin
 
 use p8.py generate image into .npy file
 
+use p16.py for resume training at a breakpoint
+
+use p19.py for parameter detail
+
+use p23.py for acc and loss curve
+
+use p28.py for app and visualization
 
 reference [Tensorflow note Peking University MOOC](https://github.com/cj0012/AI-Practice-Tensorflow-Notes)
