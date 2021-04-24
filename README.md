@@ -27,3 +27,4 @@ using pcap_txt_to_image.py generate image with label, i.e. deep learning trainin
 use p8.py generate image into .npy file
 
 
+reference [Tensorflow note Peking University MOOC](https://github.com/cj0012/AI-Practice-Tensorflow-Notes)
