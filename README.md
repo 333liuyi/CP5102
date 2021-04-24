@@ -24,4 +24,6 @@ If do the protocol filter or modify the size the training set(the number of pack
 
 using pcap_txt_to_image.py generate image with label, i.e. deep learning training set format .npy
 
+use p8.py generate image into .npy file
+
 
